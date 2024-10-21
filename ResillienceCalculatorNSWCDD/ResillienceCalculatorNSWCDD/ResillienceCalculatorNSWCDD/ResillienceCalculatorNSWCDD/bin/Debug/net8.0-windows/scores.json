@@ -1,0 +1,23 @@
+[
+  {
+    "Id": "1019241821",
+    "Physical": 0.45,
+    "Hardware": 2.0,
+    "Software": 0,
+    "TotalScore": 2.45
+  },
+  {
+    "Id": "1019241821",
+    "Physical": 0.65,
+    "Hardware": 2.0,
+    "Software": 0,
+    "TotalScore": 2.65
+  },
+  {
+    "Id": "1019241822",
+    "Physical": 0.65,
+    "Hardware": 2.44,
+    "Software": 1,
+    "TotalScore": 4.09
+  }
+]
